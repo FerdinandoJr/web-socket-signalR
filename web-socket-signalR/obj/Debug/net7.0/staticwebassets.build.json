@@ -1,11 +1,105 @@
 {
   "Version": 1,
-  "Hash": "d70tK8mbV4WvjlYqTRL33LMNKiwchmq6JvgVltFLjoc=",
+  "Hash": "vmZm2NiX2qoTZ8ChiYC3SqlMRwz8FpRdq3cZ7O36AE4=",
   "Source": "web-socket-signalR",
   "BasePath": "_content/web-socket-signalR",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "web-socket-signalR\\wwwroot",
+      "Source": "web-socket-signalR",
+      "ContentRoot": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\",
+      "BasePath": "_content/web-socket-signalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\css\\site.css",
+      "SourceId": "web-socket-signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\",
+      "BasePath": "_content/web-socket-signalR",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\index.html",
+      "SourceId": "web-socket-signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\",
+      "BasePath": "_content/web-socket-signalR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\js\\chat.js",
+      "SourceId": "web-socket-signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\",
+      "BasePath": "_content/web-socket-signalR",
+      "RelativePath": "js/chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "web-socket-signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\",
+      "BasePath": "_content/web-socket-signalR",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "web-socket-signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\wwwroot\\",
+      "BasePath": "_content/web-socket-signalR",
+      "RelativePath": "js/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    }
+  ]
 }

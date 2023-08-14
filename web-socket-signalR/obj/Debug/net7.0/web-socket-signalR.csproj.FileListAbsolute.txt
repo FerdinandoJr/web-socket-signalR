@@ -31,3 +31,9 @@ C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\obj\Deb
 C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\obj\Debug\net7.0\web-socket-signalR.pdb
 C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\obj\Debug\net7.0\web-socket-signalR.genruntimeconfig.cache
 C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\obj\Debug\net7.0\ref\web-socket-signalR.dll
+C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\bin\Debug\net7.0\web-socket-signalR.staticwebassets.runtime.json
+C:\Users\Weslindo\Documents\GitHub\web-socket-signalR\web-socket-signalR\bin\Debug\net7.0\libman.json
