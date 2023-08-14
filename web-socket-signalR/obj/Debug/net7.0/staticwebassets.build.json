@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d70tK8mbV4WvjlYqTRL33LMNKiwchmq6JvgVltFLjoc=",
+  "Source": "web-socket-signalR",
+  "BasePath": "_content/web-socket-signalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
