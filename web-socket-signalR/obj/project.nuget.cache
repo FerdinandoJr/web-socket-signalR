@@ -1,16 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "9q6ZhyFCLPd4dXjeqeK4gMyzs82dGlLkMiMZAFT63TxUDe1QI9LB1tP+MhYx9AmdXRV5nTWO5U8heb0YxAT4jw==",
+  "dgSpecHash": "bsDsfKgyTNNcv2xxzkKjHTLUHaqW/2VQmkedgmGxpyeJiGr8lc09Km+cDCt9sUhcH4J6/qPc8MDP0fNnxhEBYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Weslindo\\Documents\\GitHub\\web-socket-signalR\\web-socket-signalR\\web-socket-signalR.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.10\\microsoft.aspnetcore.connections.abstractions.7.0.10.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.10\\microsoft.aspnetcore.signalr.common.7.0.10.nupkg.sha512",
     "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.extensions.features\\7.0.10\\microsoft.extensions.features.7.0.10.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Weslindo\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Weslindo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Weslindo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Weslindo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\Weslindo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\Weslindo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Weslindo\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
